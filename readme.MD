@@ -71,7 +71,7 @@ python main.py
 We welcome contributions of all kinds! Here’s how you can help:
 
 - ⭐ **Star** the project to show your support!
-- 🐛 **Report Issues** – Found a bug? [Create an issue](https://github.com/YOUR_USERNAME/OpenAI-Assistant/issues)
+- 🐛 **Report Issues** – Found a bug? [Create an issue](https://github.com/sunil-bombe/OpenAI-Assistant/issues)
 - 🛠️ **Fix Bugs & Add Features** – Fork the repo, make changes, and submit a PR.
 - 📖 **Improve Documentation** – Help us enhance the README, Wiki, and Docs.
 - 🌍 **Localization** – Translate the assistant into different languages.
@@ -81,7 +81,7 @@ We welcome contributions of all kinds! Here’s how you can help:
 1. **Fork** this repository.
 2. **Clone** your forked repo.
    ```bash
-   git clone https://github.com/YOUR_USERNAME/OpenAI-Assistant.git
+   git clone https://github.com/sunil-bombe/Aritificial-Intelligent.git
    ```
 3. **Create a new branch** for your changes.
    ```bash
@@ -99,8 +99,8 @@ We welcome contributions of all kinds! Here’s how you can help:
 ## 📢 Community & Support
 
 💬 **Join the Discussion** – Share ideas, ask questions, and collaborate!
-📧 **Contact Us** – Email us at `opensource.ai.assistant@gmail.com`
-📌 **Follow Us** – Twitter: [@opensourceai](https://twitter.com/opensourceai)
+📧 **Contact Us** – Email us at `sunil.bombe1998@gmail.com`
+📌 **Follow Us** – Twitter: [@opensourceai](https://twitter.com/sunil-bombe)
 
 ---
 
